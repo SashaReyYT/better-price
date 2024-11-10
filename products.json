@@ -1,0 +1,1962 @@
+[
+  {
+    "shop": "АТБ",
+    "category": "м'ясо",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/16733/catalog_list_16733.jpg",
+    "title": "Окіст Глобино для смаження свинячий охолоджений",
+    "price": "151.99",
+    "measureUnit": "грн/кг"
+  },
+  {
+    "shop": "АТБ",
+    "category": "м'ясо",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11971/catalog_list_11971.jpg",
+    "title": "Стегно курчат-бройлерів Чебатурочка охолоджене",
+    "price": "106.59",
+    "measureUnit": "грн/кг"
+  },
+  {
+    "shop": "АТБ",
+    "category": "м'ясо",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/1271/catalog_list_1271.png",
+    "title": "Фарш 0,5 кг Своя Лінія Домашній охолоджений",
+    "price": "78.60",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "м'ясо",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/59253/catalog_list_59253.jpg",
+    "title": "Філе стегна курчат-бройлерів Наша Ряба охолоджене",
+    "price": "184.89",
+    "measureUnit": "грн/кг"
+  },
+  {
+    "shop": "АТБ",
+    "category": "м'ясо",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/59561/catalog_list_59561.jpg",
+    "title": "Печінка 0,7 кг курчат-бройлерів Наша Ряба охолоджена вак/упак",
+    "price": "69.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "м'ясо",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/1293/catalog_list_1293.jpg",
+    "title": "Стегно курчат-бройлерів Своя лінія Вогняна Сальса в маринаді охолоджене",
+    "price": "123.89",
+    "measureUnit": "грн/кг"
+  },
+  {
+    "shop": "АТБ",
+    "category": "м'ясо",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/48289/catalog_list_48289.jpg",
+    "title": "Крило кypчaт-бpойлepів Нaшa Рябa в маринаді охолоджене вак/упак",
+    "price": "109.89",
+    "measureUnit": "грн/кг"
+  },
+  {
+    "shop": "АТБ",
+    "category": "м'ясо",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/1376/catalog_list_1376.jpg",
+    "title": "Піджарка 0,7кг Своя Лінія зі свинини охолоджена",
+    "price": "161.60",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/19437/catalog_list_19437.jpg",
+    "title": "Мандарини",
+    "price": "72.95",
+    "measureUnit": "грн/кг"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/6652/catalog_list_6652.jpg",
+    "title": "Лимон Майер 1 гат",
+    "price": "49.95",
+    "measureUnit": "грн/кг"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/6890/catalog_list_6890.jpg",
+    "title": "Гарбуз Баттернат 1 гат",
+    "price": "13.95",
+    "measureUnit": "грн/кг"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/70731/catalog_list_70731.jpg",
+    "title": "Журавлина 125г Своя лінія сушена половинки",
+    "price": "52.70",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/21209/catalog_list_21209.jpg",
+    "title": "Асорті 125г Своя Лінія фруктово-горіхов",
+    "price": "46.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/2824/catalog_list_2824.jpg",
+    "title": "Виноград сушений 125г Розумний вибір кишмиш",
+    "price": "20.60",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/70735/catalog_list_70735.jpg",
+    "title": "Асорті 125г Своя Лінія горіхове",
+    "price": "89.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/70727/catalog_list_70727.jpg",
+    "title": "Ядра 75г Своя Лінія горіхів Кеш'ю несмажені",
+    "price": "53.30",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/70729/catalog_list_70729.jpg",
+    "title": "Ядро мигдалю 75г Своя лінія сушене",
+    "price": "39.80",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/70737/catalog_list_70737.jpg",
+    "title": "Абрикоси сушені 200г Своя лінія",
+    "price": "94.60",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/63435/catalog_list_63435.jpg",
+    "title": "Ядра 125г Розумний вибір бобів арахісу смажені",
+    "price": "28.50",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/12534/catalog_list_12534.jpg",
+    "title": "Фруктові чипси 20 г Frutex Кокочипси з кокосу",
+    "price": "27.40",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/46451/catalog_list_46451.jpg",
+    "title": "Чіпси 80г Sosedi (кисле, солодке яблуко)",
+    "price": "70.50",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/5249/catalog_list_5249.jpg",
+    "title": "Салат Айсберг 1 гат",
+    "price": "119.95",
+    "measureUnit": "грн/кг"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/1406/catalog_list_1406.jpg",
+    "title": "Капуста 400г Розумний вибір квашена з журавлиною",
+    "price": "47.40",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/18573/catalog_list_18573.jpg",
+    "title": "Часник імпорт",
+    "price": "124.95",
+    "measureUnit": "грн/кг"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/59153/catalog_list_59153.png",
+    "title": "Морська капуста 250 г Своя лінія Маринована пл/уп",
+    "price": "31.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52953/catalog_list_52953.jpg",
+    "title": "Салат 400 г Своя Лінія традиційний п/відро",
+    "price": "54.70",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/1841/catalog_list_1841.png",
+    "title": "Капуста Пекінська",
+    "price": "53.95",
+    "measureUnit": "грн/кг"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/60493/catalog_list_60493.png",
+    "title": "Огірки 350г Розумний вибір корнішони солоні 7-9 см",
+    "price": "69.70",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/8234/catalog_list_8234.jpg",
+    "title": "Гранат Азербайджан",
+    "price": "86.95",
+    "measureUnit": "грн/кг"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/6772/catalog_list_6772.jpg",
+    "title": "Гранат",
+    "price": "86.95",
+    "measureUnit": "грн/кг"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/4633/catalog_list_4633.jpg",
+    "title": "Корінь імбиру",
+    "price": "164.95",
+    "measureUnit": "грн/кг"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/17973/catalog_list_17973.jpg",
+    "title": "Манго 100 г Almond сушене",
+    "price": "71.60",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/18495/catalog_list_18495.jpg",
+    "title": "Капуста",
+    "price": "27.95",
+    "measureUnit": "грн/кг"
+  },
+  {
+    "shop": "АТБ",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/18479/catalog_list_18479.jpg",
+    "title": "Хурма Персимона",
+    "price": "102.95",
+    "measureUnit": "грн/кг"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/57269/catalog_list_57269.png",
+    "title": "Соус 200 г Торчин Шаурма",
+    "price": "26.20",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/65623/catalog_list_65623.png",
+    "title": "Заправка 220 г Торчин буряково-томатна д/пак",
+    "price": "31.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/65603/catalog_list_65603.png",
+    "title": "Кетчуп 250 г Торчин Лагідний д/пак",
+    "price": "25.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/66377/catalog_list_66377.jpg",
+    "title": "Kетчуп 250 г Торчин до Шaшлику д/пaк",
+    "price": "25.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/65619/catalog_list_65619.png",
+    "title": "Гірчиця 130г Торчин Американська",
+    "price": "17.30",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/65615/catalog_list_65615.png",
+    "title": "Гірчиця 130г Торчин Міцна",
+    "price": "17.30",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/2050/catalog_list_2050.jpg",
+    "title": "Приправа 30г Приправка Суміш перців мелена",
+    "price": "16.60",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52523/catalog_list_52523.jpg",
+    "title": "Приправа 30г Приправка GRILL & BBQ Техаський стейк",
+    "price": "17.40",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/45629/catalog_list_45629.jpg",
+    "title": "Паніровка 120 г Приправка хрумтезна (з копченими томатами, з часником та гірчицею) м/уп",
+    "price": "25.50",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/65575/catalog_list_65575.png",
+    "title": "Майонез 0,52 кг Торчин Європейський 72% д/пак",
+    "price": "48.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/65571/catalog_list_65571.png",
+    "title": "Майонезний соус 0,52 кг Торчин Делікатесний 28% д/пак",
+    "price": "31.50",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/65627/catalog_list_65627.png",
+    "title": "Соус 190 мл Торчин соєвий класичний",
+    "price": "35.60",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/4422/catalog_list_4422.jpg",
+    "title": "Приправа 45г Приправка Exclusive до шашлику",
+    "price": "28.50",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/4421/catalog_list_4421.jpg",
+    "title": "Приправа 50г Приправка Exclusive до мяса",
+    "price": "28.50",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/73929/catalog_list_73929.jpg",
+    "title": "Консерви 240г Онисс Паштет Печінковий",
+    "price": "34.10",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/77187/catalog_list_77187.jpg",
+    "title": "Попкорн 90 г Своя Лінія в карамелі м/уп",
+    "price": "30.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/50071/catalog_list_50071.jpg",
+    "title": "Гриби 280 г Своя Лінія Опеньки мариновані дойпак",
+    "price": "38.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/11547/catalog_list_11547.jpg",
+    "title": "Каша 340 г Розумний вибір гречана зі свининою",
+    "price": "46.70",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/37647/catalog_list_37647.jpg",
+    "title": "Гірчиця 140 г Верес з хроном",
+    "price": "15.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/76029/catalog_list_76029.jpg",
+    "title": "Консерви 230 г Море Лящ обсмажений у томатному соусі з/б",
+    "price": "41.30",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/62673/catalog_list_62673.jpg",
+    "title": "Пластівці вівсяні 370 г WOWoats безглютенові м/уп",
+    "price": "32.50",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72697/catalog_list_72697.jpg",
+    "title": "Гірчиця 120 г Щедро Манго-абрикос д/пак",
+    "price": "14.40",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/18021/catalog_list_18021.jpg",
+    "title": "Консерви 325 г Своя лінія філе індички з червоною квасолею",
+    "price": "54.20",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/73779/catalog_list_73779.jpg",
+    "title": "Консерви 160 г De Luxe Foods & Goods Selected салат з тунцем та кукурудзою з/б",
+    "price": "53.50",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/14190/catalog_list_14190.jpg",
+    "title": "Каша 340 г Розумний вибір горохова зі свининою",
+    "price": "43.60",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52227/catalog_list_52227.jpg",
+    "title": "Гірчиця 130г Своя лінія Українська міцна",
+    "price": "12.40",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3921/catalog_list_3921.jpg",
+    "title": "Квасоля 420г Своя лінія у томатному соусi",
+    "price": "35.30",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/30115/catalog_list_30115.jpg",
+    "title": "Консерви 185 г Своя Лінія Тунець подрiбнений у власному соку з/б",
+    "price": "38.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/30113/catalog_list_30113.jpg",
+    "title": "Консерви 185 г Своя Лінія Тунець подрiбнений в олії з/б",
+    "price": "38.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/1023/catalog_list_1023.jpg",
+    "title": "Каша 40г Своя Лінія вівсяна миттєвого приготування з молоком та полуницею",
+    "price": "8.20",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/967/catalog_list_967.jpg",
+    "title": "Горошок 420г Своя лінія зелений",
+    "price": "34.50",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/65271/catalog_list_65271.jpg",
+    "title": "Консерви 0,565 кг Своя Лінія Ананас Кільця",
+    "price": "60.50",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/57347/catalog_list_57347.png",
+    "title": "Готовий Снідaнок 200 г Nesquik Mix м/yп",
+    "price": "65.30",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/2327/catalog_list_2327.jpg",
+    "title": "Консерви 0,82кг Своя Лінія Персики Половинками в легкому сиропі",
+    "price": "86.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/76545/catalog_list_76545.jpg",
+    "title": "Попкорн 120 г Своя Лінія солоний зі смаком сиру м/уп",
+    "price": "20.60",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "бакалія",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/76541/catalog_list_76541.jpg",
+    "title": "Попкорн 120 г Своя Лінія солоний зі смаком бекону м/уп",
+    "price": "20.60",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/23199/catalog_list_23199.jpg",
+    "title": "Йогурт 300г Молокія білий безлактозний густий 2,5%",
+    "price": "26.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/23201/catalog_list_23201.jpg",
+    "title": "Йогурт 300 г Молокія білий густий 1,6%",
+    "price": "24.50",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/23195/catalog_list_23195.jpg",
+    "title": "Йогурт 300 г Молокія густий білий по-грецьки 8%",
+    "price": "29.50",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/30417/catalog_list_30417.jpg",
+    "title": "Десерт сирковий 130 г Марійка зі смаком ванілі 5% п/ванночка",
+    "price": "17.40",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72725/catalog_list_72725.jpg",
+    "title": "Йогурт 0,87 кг Галичина Персик-Абрикос 2,2% п/бут",
+    "price": "47.50",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/9258/catalog_list_9258.jpg",
+    "title": "Йогурт 300г Галичина Полуниця 2,2%",
+    "price": "20.30",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/3536/catalog_list_3536.jpg",
+    "title": "Йогурт 300г Галичина Злаки 2,2%",
+    "price": "20.30",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72619/catalog_list_72619.jpg",
+    "title": "Сметана 300 г President 10% п/стакан",
+    "price": "27.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/50027/catalog_list_50027.jpg",
+    "title": "Сир кисломолочний 350 г Український 5% п/ет",
+    "price": "51.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/50031/catalog_list_50031.jpg",
+    "title": "Сир кисломолочний 350 г Український нежирний п/ет",
+    "price": "47.50",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/50029/catalog_list_50029.jpg",
+    "title": "Сир кисломолочний 350 г Український 9% п/ет",
+    "price": "55.40",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/67507/catalog_list_67507.jpg",
+    "title": "Бісквітне тістечко 27 г MINIONS з молочним кремом з банановою начинкою глазуроване м/уп",
+    "price": "15.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/73753/catalog_list_73753.jpg",
+    "title": "Маргарин 250г Своя Лінія Вершковий особий 72%",
+    "price": "23.80",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/73751/catalog_list_73751.jpg",
+    "title": "Маргарин 500г Своя Лінія Вершковий особий 72%",
+    "price": "44.50",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/45427/catalog_list_45427.jpg",
+    "title": "Суміш 400г Тульчинка рослинно-молочна 72,5%",
+    "price": "64.60",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/23241/catalog_list_23241.jpg",
+    "title": "Йогурт 250 г Молокія Лісова ягода 1,4%",
+    "price": "23.30",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/19947/catalog_list_19947.jpg",
+    "title": "Йогурт 250 г Молокія Злаки 1,4%",
+    "price": "23.30",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/19945/catalog_list_19945.jpg",
+    "title": "Йогурт 250 г Молокія Абрикос 1,4%",
+    "price": "23.30",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/19943/catalog_list_19943.jpg",
+    "title": "Йогурт 250 г Молокія Полуниця 1,4%",
+    "price": "23.30",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/28905/catalog_list_28905.jpg",
+    "title": "Сирок глазурований 36 г Ферма Згущене молоко 23% фольга",
+    "price": "11.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/28903/catalog_list_28903.jpg",
+    "title": "Сирок глазурований 36 г Ферма Ваніль 23% фольга",
+    "price": "11.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/65915/catalog_list_65915.jpg",
+    "title": "Сирок глазурований 36 г Ферма Вишня-черешня 23% фольга",
+    "price": "11.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/71241/catalog_list_71241.jpg",
+    "title": "Йогурт 240 г Галичина Суниця-Манго 2,2% п/стакан",
+    "price": "26.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/48103/catalog_list_48103.jpg",
+    "title": "Продукт сирковий глазурований 36 г Мушкетер Тірамісу 15% фольга",
+    "price": "7.80",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52469/catalog_list_52469.jpg",
+    "title": "Йогурт 290 г Галичина Чорниця - Злаки 2,2% п/стакан",
+    "price": "32.60",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52467/catalog_list_52467.jpg",
+    "title": "Йогурт 290 г Галичина Вишня - Злаки 2,2% п/стакан",
+    "price": "32.60",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72597/catalog_list_72597.jpg",
+    "title": "Йогурт 170 г Злагода Малятко Персик від 9 місяців 2,8% д/пак",
+    "price": "16.80",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/26217/catalog_list_26217.jpg",
+    "title": "Напій кисломолочний 450 г Яготинський Айран з кропом 1,8% п/бут",
+    "price": "26.20",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/68983/catalog_list_68983.jpg",
+    "title": "Біфідойогурт 270 г Яготинський 1,5% п/бут",
+    "price": "21.80",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/550/catalog_list_550.jpg",
+    "title": "Кефір 0,9 кг Яготинський 2,5%",
+    "price": "39.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/13129/catalog_list_13129.jpg",
+    "title": "Йогурт 0,8 кг Злагода білий без цукру 1%",
+    "price": "50.50",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/35263/catalog_list_35263.jpg",
+    "title": "Молоко 0,84 кг Ферма 3,2%",
+    "price": "43.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/13130/catalog_list_13130.jpg",
+    "title": "Йогурт 0,8 кг Злагода Смузі Манго-Банан-Льон 1,2%",
+    "price": "57.30",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/72599/catalog_list_72599.jpg",
+    "title": "Йогурт 170 г Злагода Малятко Солодкий від 9 місяців 3% д/пак",
+    "price": "15.80",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/52611/catalog_list_52611.jpg",
+    "title": "Йогурт 115 г Дольче двошаровий Полуниця-банан 3,2% п/стакан",
+    "price": "14.90",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "АТБ",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://src.zakaz.atbmarket.com/cache/photos/10574/catalog_list_10574.jpg",
+    "title": "Сир кисломолочний 200г Молокія 0,2%",
+    "price": "33.50",
+    "measureUnit": "грн/шт"
+  },
+  {
+    "shop": "Новус",
+    "category": "м'ясо",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/3/2/320305_1.jpg",
+    "title": "Гомілка куряча охолоджена Вл/Вир ваг",
+    "price": "80.89 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "м'ясо",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/5/5/55807.jpg",
+    "title": "Шашлик по-Домашньому охол.ваг",
+    "price": "229.00 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "м'ясо",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/5/5/55785_1.jpg",
+    "title": "Ковбаски Домашні для гриля в/в,охол.ваг",
+    "price": "219.00 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "м'ясо",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/3/2/324608_1.jpg",
+    "title": "Серце куряче Наша Ряба охл в/у 700г",
+    "price": "99.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "м'ясо",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/3/4/341693.jpg",
+    "title": "Філе курчати Наша Ряба охл лоток ваг",
+    "price": "209.00 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "м'ясо",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/3/4/341697_1.jpg",
+    "title": "Крило пл.част.курч.Наша Ряба лоток ваг",
+    "price": "129.00 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "м'ясо",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/3/1/318004_1.jpg",
+    "title": "Гомілка курчат.Епікур ох.вел лот газ ваг",
+    "price": "124.00 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "м'ясо",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/2/5/254531_1.jpg",
+    "title": "Стегна Айдахо том.мар.Наша Ряба в/у ваг",
+    "price": "179.00 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "м'ясо",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/3/4/341695.jpg",
+    "title": "Стегно курчати Наша Ряба охл лоток ваг",
+    "price": "159.00 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "м'ясо",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/3/6/361990_1.jpg",
+    "title": "Стріпси з філе курч.Наша Ряба лот 0,5кг",
+    "price": "129.00 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "м'ясо",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/3/3/330375_1.jpg",
+    "title": "Шашлик з свинини по-грузинськи охол.ваг",
+    "price": "239.00 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "м'ясо",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/3/2/325329.jpg",
+    "title": "Котлета з яловичини для бургерів ох.ваг.",
+    "price": "329.00 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/5/4/54179_1.jpg",
+    "title": "Авокадо дрібний шт",
+    "price": "49.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/3/9/3956.jpg",
+    "title": "Мандарини ваг",
+    "price": "85.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/5/5/55496.jpg",
+    "title": "Яблуко Джонаголд 70+ ваг",
+    "price": "36.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/5/1/51551.jpg",
+    "title": "Яблуко Симиренко Україна 65+ ваг",
+    "price": "39.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/5/5/55182.jpg",
+    "title": "Томат Cherry червоний імпорт 250г",
+    "price": "79.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/1/1/112148_1.jpg",
+    "title": "Томат рожевий ваг",
+    "price": "139.00 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/3/2/321129.jpg",
+    "title": "Овочева суміш Дитячий мікс Рудь 400г",
+    "price": "76.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/2/9/297881_1.jpg",
+    "title": "Редька салатна маргеланська ваг",
+    "price": "47.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/5/5/55738_1.jpg",
+    "title": "Капуста молода ваг",
+    "price": "59.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/7/0/70659_1.jpg",
+    "title": "Хурма Шарон ваг",
+    "price": "109.00 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/3/9/3954_1.jpg",
+    "title": "Лимони ваг",
+    "price": "72.69 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/3/9/3963.jpg",
+    "title": "Банан ваг",
+    "price": "62.29 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "бакалія",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/2/0/2084.jpg",
+    "title": "Кава мелена Lavazza Crema e Gusto 250г",
+    "price": "254.00 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "бакалія",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/1/2/125524_1.jpg",
+    "title": "Ананас шматочки в сир.Lorado з/б 580мл",
+    "price": "89.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "бакалія",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/3/5/352244.jpg",
+    "title": "Оселедець в олії терм Norven 240г",
+    "price": "99.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "бакалія",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/1/1/111751.jpg",
+    "title": "Оселедець в/о Norven 500г",
+    "price": "169.00 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "бакалія",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/1/2/12444_1.jpg",
+    "title": "Маслини Arte Oliva з/к 300г",
+    "price": "84.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "бакалія",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/1/1/111271_1.jpg",
+    "title": "Макарони Перья La Pasta 400г",
+    "price": "49.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "бакалія",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/1/2/121647.jpg",
+    "title": "Хлібці житні з висівками Finn Crisp 200г",
+    "price": "99.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "бакалія",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/2/4/245272_1.jpg",
+    "title": "Горошок зел.конс.з/б Novus 410г",
+    "price": "50.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "бакалія",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/2/0/202437_1.jpg",
+    "title": "Пластівці вівсяні Liebe 500г",
+    "price": "56.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "бакалія",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/3/2/325137_1.jpg",
+    "title": "Ананас кільця в сиропі Dario з/б 580мл",
+    "price": "79.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "бакалія",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/2/7/271875.jpg",
+    "title": "Паштет з птиці том.НАМЕ ал/б 100г + 30 г",
+    "price": "65.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "бакалія",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/2/7/271907.jpg",
+    "title": "Паштет з птиці часн.НАМЕ ал/б 100г + 30г",
+    "price": "65.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/1/7/177166_1.jpg",
+    "title": "Молоко 2,6% Яготин пляш. 870г",
+    "price": "47.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/1/1/1174_1.jpg",
+    "title": "Кефір 2,5% Галичина пет.пл.870мл",
+    "price": "49.89 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/1/4/148362_1.jpg",
+    "title": "Суміш НАН OPTIPRO 3 800Г",
+    "price": "749.00 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/1/8/181827.jpg",
+    "title": "Яйце кур.С0 Квочка Домашня 10шт",
+    "price": "56.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/3/4/341520.jpg",
+    "title": "Пудинг карамель 3,5% Sterilgarda 200г",
+    "price": "69.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/3/3/333839_1.jpg",
+    "title": "Молоко 2,5% у-паст. TFA Marka Promo 900г",
+    "price": "39.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/2/4/243744.jpg",
+    "title": "Молоко 3,2% Особ.Родинне Селянське 1,5 л",
+    "price": "77.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/3/5/355943.jpg",
+    "title": "Напій вівс.1,5% з бан.Vega Milk 250мл",
+    "price": "21.99 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/2/7/274723_1.jpg",
+    "title": "Напій к/мол.2% Айран Яготинськ.ПЕТ 450г",
+    "price": "31.89 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/6/3/6397_1.jpg",
+    "title": "Морозиво Супер-шоколад Рудь ваф.ст.70г",
+    "price": "26.29 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/1/1/118855.jpg",
+    "title": "Морозиво Дитяче карт.відр Рудь 500г",
+    "price": "189.00 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Новус",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://novus.ua/media/catalog/product/cache/3800f842e2c3c5d5060fcd0f00fb4c8e/2/1/219278.jpg",
+    "title": "Морозиво Пломбір 1965 Лімо пап/міш.700г",
+    "price": "249.00 грн",
+    "measureUnit": " - "
+  },
+  {
+    "shop": "Сільпо",
+    "category": "м'ясо",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/71506b8e-5d9f-4474-8c7c-9ca1abf8be3e.png",
+    "title": "Свинина, лопатка без кістки охолоджена",
+    "price": "13.90 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "м'ясо",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/406f0c30-c215-4359-9ab7-126a283f4a50.png",
+    "title": "Свиняча лопатка охолоджена в/у",
+    "price": "13.90 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "м'ясо",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/b562aa4f-a10f-49a8-b2ff-c8f74e8ee070.png",
+    "title": "Свинячий Ошийок без кісток охолоджений в/у",
+    "price": "21.40 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "м'ясо",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/5ee62a60-0b53-4c11-ad76-38eaa353a061.png",
+    "title": "Ковбаса «Домашня» фасована",
+    "price": "14.40 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "м'ясо",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/0f64aa59-489c-463e-a23d-7a5ffc240aa3.png",
+    "title": "Ковбаса «Домашня» охолоджена в/у",
+    "price": "14.40 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "м'ясо",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/95ec2613-791e-48a6-9f8d-78a50aa930c1.png",
+    "title": "Ковбаса «Домашня»",
+    "price": "14.40 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "м'ясо",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/08453dbc-ada8-4182-843f-f2deeee1cd0f.png",
+    "title": "Свиняча лопатка фермерська",
+    "price": "13.90 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "м'ясо",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/34ecb268-b23d-42bd-8732-05b8dc03657f.png",
+    "title": "Свинячий ошийок фермерський",
+    "price": "21.40 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "м'ясо",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/867a0958-511b-4631-9a96-2627048f6724.png",
+    "title": "Тушка куряча Епікур охолоджена в/у",
+    "price": "9.90 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/71506b8e-5d9f-4474-8c7c-9ca1abf8be3e.png",
+    "title": "Свинина, лопатка без кістки охолоджена",
+    "price": "13.90 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/406f0c30-c215-4359-9ab7-126a283f4a50.png",
+    "title": "Свиняча лопатка охолоджена в/у",
+    "price": "13.90 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/b562aa4f-a10f-49a8-b2ff-c8f74e8ee070.png",
+    "title": "Свинячий Ошийок без кісток охолоджений в/у",
+    "price": "21.40 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/5ee62a60-0b53-4c11-ad76-38eaa353a061.png",
+    "title": "Ковбаса «Домашня» фасована",
+    "price": "14.40 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/0f64aa59-489c-463e-a23d-7a5ffc240aa3.png",
+    "title": "Ковбаса «Домашня» охолоджена в/у",
+    "price": "14.40 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/95ec2613-791e-48a6-9f8d-78a50aa930c1.png",
+    "title": "Ковбаса «Домашня»",
+    "price": "14.40 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/08453dbc-ada8-4182-843f-f2deeee1cd0f.png",
+    "title": "Свиняча лопатка фермерська",
+    "price": "13.90 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/34ecb268-b23d-42bd-8732-05b8dc03657f.png",
+    "title": "Свинячий ошийок фермерський",
+    "price": "21.40 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "овочі та фрукти",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/867a0958-511b-4631-9a96-2627048f6724.png",
+    "title": "Тушка куряча Епікур охолоджена в/у",
+    "price": "9.90 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/0b5dae4e-54ea-4e48-8486-eecb2efd2a27.png",
+    "title": "Олія соняшникова «Олейна» традиційна рафінована",
+    "price": "59.99 грн",
+    "measureUnit": "0,85л"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/8cd18542-5f5b-4746-ae7b-e54fbb0778dd.png",
+    "title": "Крупа гречана «Премія»® ядриця швидкорозварювана",
+    "price": "32.99 грн",
+    "measureUnit": "1кг"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/fe967525-6bf2-4822-acbb-9102d6bf3448.png",
+    "title": "Борошно Київ Млин в/ґ",
+    "price": "37.99 грн",
+    "measureUnit": "2кг"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/07f05c4d-779a-4be4-8f38-2ed8e5047672.png",
+    "title": "Кукурудза «Повна Чаша»® цукрова консервована",
+    "price": "32.99 грн",
+    "measureUnit": "420г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/b9c86186-a018-4e5e-9b9e-cca05057d34e.png",
+    "title": "Огірки «Премія»® мариновані пастеризовані",
+    "price": "64.99 грн",
+    "measureUnit": "680г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/34bd0096-06fb-4834-a55f-64b0345251fb.png",
+    "title": "Квасоля «Верес» червона",
+    "price": "45.99 грн",
+    "measureUnit": "400г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/152c6ea7-ff82-40b2-beec-e7c9c1c85caa.png",
+    "title": "Вироби макаронні Corticella «Фарфале»",
+    "price": "69.99 грн",
+    "measureUnit": "500г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/8eb699f7-4982-4b63-af7c-70086440cf99.png",
+    "title": "Квасоля «Верес» «Ніжна»",
+    "price": "43.99 грн",
+    "measureUnit": "400г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/a04fd666-9f49-49be-9178-9249e69c3a0a.png",
+    "title": "Олія соняшникова «Премія»® нерафінована виморожена",
+    "price": "54.99 грн",
+    "measureUnit": "0,85л"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/88fd7efe-ee04-4625-8f92-8029ac9658dc.png",
+    "title": "Огірки «Премія»® корнішони мариновані пастеризовані",
+    "price": "86.99 грн",
+    "measureUnit": "680г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/f4a552ef-ce2d-4472-9bd9-81f83365a6d5.png",
+    "title": "Кунжут Katana",
+    "price": "34.99 грн",
+    "measureUnit": "50г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/561a3a56-9a0d-4d6f-a736-5167eb794b32.png",
+    "title": "Олія оливкова «Премія»® Extra Virgin першого віджиму",
+    "price": "369.00 грн",
+    "measureUnit": "500мл"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/0d6b9847-d597-46ef-b1c8-7b1da34d4b10.png",
+    "title": "Квасоля «Верес» в томатному соусі",
+    "price": "49.99 грн",
+    "measureUnit": "400г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/db749c6a-703d-44c8-8870-223b1c26805a.png",
+    "title": "Ананаси Оscar кільця",
+    "price": "99.00 грн",
+    "measureUnit": "580мл"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/7933b50d-0fcd-4e66-a408-aeb94f4426eb.png",
+    "title": "Вироби макаронні Corticella Лазанья",
+    "price": "114.00 грн",
+    "measureUnit": "500г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/b2419a44-b7e7-4d73-9634-a4ffc5552e92.png",
+    "title": "Соус соєвий Чумак Теріякі",
+    "price": "47.99 грн",
+    "measureUnit": "220мл"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/00357b40-dea6-4a4a-90fa-b4073d94bd37.png",
+    "title": "Оливки Oscar фаршировані лимоном",
+    "price": "74.99 грн",
+    "measureUnit": "300г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/abf341c9-0921-45b2-84d8-6166c8ff333a.png",
+    "title": "Соус Filippo Berio песто з в'ялених томатів",
+    "price": "114.00 грн",
+    "measureUnit": "190г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/9525943e-36cd-481b-97a1-156fd3de556c.png",
+    "title": "Папір рисовий Katana",
+    "price": "47.99 грн",
+    "measureUnit": "45г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/fa9933fb-ef04-4f51-b449-8da5e883676f.png",
+    "title": "Соус соєвий «Чумак»",
+    "price": "47.99 грн",
+    "measureUnit": "205мл"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/84e0c7f2-184c-49da-9a70-189f411e27ab.png",
+    "title": "Вироби макаронні Corticella Фузілі",
+    "price": "69.99 грн",
+    "measureUnit": "500г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/3e7d53ac-f59e-406a-b9fc-f6e84d28163b.png",
+    "title": "Вироби макаронні Corticella «Пенне Рігате»",
+    "price": "69.99 грн",
+    "measureUnit": "500г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/366a4439-570b-4d35-9735-1eb3d9b3d47d.png",
+    "title": "Вироби макаронні Corticella «Спагеті»",
+    "price": "69.99 грн",
+    "measureUnit": "500г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/7ef61532-756a-429e-a72c-ea47ef319ca9.png",
+    "title": "Вершки кокосові Kara натуральні пастеризовані 24%",
+    "price": "45.99 грн",
+    "measureUnit": "65мл"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/afad0ddc-1ec4-4ca5-9302-c5b8b6d9a581.png",
+    "title": "Оливки Oscar з анчоусом",
+    "price": "74.99 грн",
+    "measureUnit": "300г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/35002d94-ba7c-4b73-9ddd-91a9468ba08d.png",
+    "title": "Соус Filippo Berio песто з томатами і сиром рікота",
+    "price": "114.00 грн",
+    "measureUnit": "190г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/ac8ca03d-e21d-4354-bccc-a9354580b312.png",
+    "title": "Соус соєвий Katana класичний",
+    "price": "59.99 грн",
+    "measureUnit": "500мл"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/e00f92f3-2538-4a52-b705-3a05d94ba64a.png",
+    "title": "Соус a Pero песто з томатами та рікотою",
+    "price": "89.99 грн",
+    "measureUnit": "190г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/df71329b-5c7a-4bc5-bb3c-100a87abd0f8.png",
+    "title": "Мюслі Purella Superfoods Енергія",
+    "price": "119.00 грн",
+    "measureUnit": "200г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/7cd1534d-7f50-41de-9614-d1a3ddf854e3.png",
+    "title": "Водорості House of Asia Норі 6 листів",
+    "price": "99.00 грн",
+    "measureUnit": "15г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/2196e8a4-2abd-4d8a-a70f-b3296778f3f7.png",
+    "title": "Печінка Banga тріски",
+    "price": "114.00 грн",
+    "measureUnit": "121г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/612c0a96-eb8b-45d7-ad62-77edd424dfb0.png",
+    "title": "Сироп Log Cabin Оригінальний",
+    "price": "289.00 грн",
+    "measureUnit": "355мл"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/b2f59030-279a-4083-b16f-754c7e22e3e2.png",
+    "title": "Томати WellDar Італійські очищені у власному соку",
+    "price": "56.99 грн",
+    "measureUnit": "400г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/ee19e2e8-a872-4fd1-8f3e-03aa82df48c7.png",
+    "title": "Соус Golden Crown Garden Теріякі",
+    "price": "59.99 грн",
+    "measureUnit": "280г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/019df458-d942-4e49-bcc5-efaa95957739.png",
+    "title": "Соус томатний Vegeta Natur з базиліком",
+    "price": "99.99 грн",
+    "measureUnit": "410г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/8aa1b70c-df12-4639-8f49-5808c11e0ca7.png",
+    "title": "Кілька Kaija обсмажена в томатному соусі з паприкою",
+    "price": "69.99 грн",
+    "measureUnit": "240г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/0aa41b1a-2e4b-4029-91a6-9c0cf8bf19ea.png",
+    "title": "Локшина House of Asia Рамен",
+    "price": "129.00 грн",
+    "measureUnit": "300г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/e858e995-00f2-4fe3-bf69-5b5561fc0080.png",
+    "title": "Мюслі Purella Superfoods Фокус",
+    "price": "119.00 грн",
+    "measureUnit": "200г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/0f8c5359-0f7e-47e7-8dac-96affbbf6706.png",
+    "title": "Топпінг Smucker's Карамель",
+    "price": "159.00 грн",
+    "measureUnit": "347г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/0ab68236-87c2-4f6e-9a3a-fd67734e061c.png",
+    "title": "Соус Sacla' Песто з в'яленими томатами органічний",
+    "price": "134.00 грн",
+    "measureUnit": "190г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/e67d0312-8e62-4422-aebc-324765579d1a.png",
+    "title": "Соус Sacla' до пасти запечені томати та рукола органічний",
+    "price": "124.00 грн",
+    "measureUnit": "190г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/053cf696-530b-496c-a816-7c431564005c.png",
+    "title": "Квасоля Верес чилі по-мексиканськи ж/б",
+    "price": "55.99 грн",
+    "measureUnit": "400г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/a0f0d6de-00d0-45e6-a8df-218f006971fb.png",
+    "title": "Олія оливкова «Премія»® Extra Virgin першого пресування",
+    "price": "199.00 грн",
+    "measureUnit": "250мл"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/0c3045ae-c3d7-4432-a2cc-d6b9b3f1140c.png",
+    "title": "Водорості Katana Вакаме",
+    "price": "54.99 грн",
+    "measureUnit": "20г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/f51d7c68-5080-47b7-8561-3de846535554.png",
+    "title": "Соус томатний Vegeta Natur по-неаполітанськи",
+    "price": "99.99 грн",
+    "measureUnit": "410г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/16d604b7-b201-4e86-a6c4-ce7ed02d8e95.png",
+    "title": "Горошок «Повна Чаша»® зелений консервований",
+    "price": "29.99 грн",
+    "measureUnit": "420г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "бакалія",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/2636ec0e-ce2e-431c-b354-ec0745a2513d.png",
+    "title": "Салат «Премія»® «Мексиканський»",
+    "price": "74.99 грн",
+    "measureUnit": "450г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/96d85651-0d90-41e9-a5bc-71b72abbd61e.png",
+    "title": "Сметана «Селянська» 20%",
+    "price": "39.99 грн",
+    "measureUnit": "300г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/d7610150-f4a7-401c-aae3-5294ab8d1465.png",
+    "title": "Сир кисломолочний Біло Домашній 5%",
+    "price": "61.99 грн",
+    "measureUnit": "350г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/a6957857-dda1-437d-ad27-5556abba6f41.png",
+    "title": "Ряжанка Яготинська 3,2% пляшка",
+    "price": "41.99 грн",
+    "measureUnit": "750г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/940a473c-629a-4a1c-b1d9-80290184c3b4.png",
+    "title": "Сир кисломолочний Біло Домашній 9%",
+    "price": "64.99 грн",
+    "measureUnit": "350г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/17ff0c13-adaf-421c-89ea-efe143f16899.png",
+    "title": "Молоко ультрапастеризоване Lactel безлактозне 2,5%",
+    "price": "51.99 грн",
+    "measureUnit": "950г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/d32cf4e1-8c3e-4dce-b005-e6c261004daa.jpg",
+    "title": "Сирочок «Чудо» полуничний 5%, ванночка",
+    "price": "14.99 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/38299c16-8a84-4577-a0b7-569149933da9.png",
+    "title": "Сирочок «Чудо» вишневий 5%, ванночка",
+    "price": "14.99 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/ce627492-a4ee-4549-a58f-5b80f237d8fd.png",
+    "title": "Сирочок «Чудо» лісова ягода 5%, ванночка",
+    "price": "14.99 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/a18c89b9-6547-41a2-b485-9cd01fc0c305.png",
+    "title": "Сирочок «Чудо» персиковий 5%, ванночка",
+    "price": "14.99 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/67ec19aa-78e6-47fc-ac40-57ed0ba1b128.png",
+    "title": "Сир кисломолочний Біло Домашній 0%",
+    "price": "56.99 грн",
+    "measureUnit": "350г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/74e02f6f-aca8-4d6e-a6b3-8e754494db57.png",
+    "title": "Йогурт «Дольче» персик-маракуя двошаровий 3,2% стакан",
+    "price": "12.99 грн",
+    "measureUnit": "115г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/edfd29c2-c98e-4554-b682-97972099d170.png",
+    "title": "Йогурт «Дольче» полуниця двошаровий 3,2% стакан",
+    "price": "12.99 грн",
+    "measureUnit": "115г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/73564e35-43f3-4a85-abab-3255f5bd72f0.png",
+    "title": "Кефір ПростоНаше 1% пет",
+    "price": "37.99 грн",
+    "measureUnit": "870г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/5c51b006-a4ab-4206-85e3-3e2ea05d26fe.png",
+    "title": "Маргарин Чумак Вершковий столовий 72%",
+    "price": "27.99 грн",
+    "measureUnit": "250г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/9f7ce41d-e94f-416f-a298-8b9829be58c2.png",
+    "title": "Йогурт «Дольче» чорниця-яблуко двошаровий 3,2%",
+    "price": "12.99 грн",
+    "measureUnit": "115г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/da84fbdd-356a-4815-8fd4-05999d921618.png",
+    "title": "Йогурт «Дольче» ківі двошаровий 3,2% стакан",
+    "price": "12.99 грн",
+    "measureUnit": "115г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/f60f5e32-5b8e-4c64-987b-7fd0ad2516d5.png",
+    "title": "Йогурт Дольче полуниця-банан 3,2% стакан",
+    "price": "12.99 грн",
+    "measureUnit": "115г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/9c4fedd2-fda6-4546-91d1-942a431ee612.png",
+    "title": "Сирок Чудо Gelato Малинове збитий з наповнювачем фруктовим 5%",
+    "price": "16.99 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/b6d47942-1d69-4062-8ffd-4e80a3d94d1b.png",
+    "title": "Йогурт Фанні Персик питний 1% пляшка",
+    "price": "44.99 грн",
+    "measureUnit": "750г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/9b87666f-43bb-4f7b-b5fc-6174c7178c2a.png",
+    "title": "Йогурт Фанні полуниця-малина питний 1% пляшка",
+    "price": "44.99 грн",
+    "measureUnit": "750г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/1faa75cf-d024-4adb-91a3-b1949ff2d0bb.png",
+    "title": "Напій Elovena Barista вівсяний до кави 3%",
+    "price": "89.99 грн",
+    "measureUnit": "1л"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/aaa7039f-dccc-453a-9ee1-cb4b2001534b.png",
+    "title": "Йогурт Фанні полуниця-банан питний 1% пляшка",
+    "price": "44.99 грн",
+    "measureUnit": "750г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/16f1923c-d11b-4bae-83c4-18a5ef1e1bd2.png",
+    "title": "Напій Elovena вівсяний для каш 1,5%",
+    "price": "89.99 грн",
+    "measureUnit": "1л"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/57d923b4-61f8-49bb-9d9b-13966c580874.png",
+    "title": "Йогурт Фанні диня-персик питний 1% пляшка",
+    "price": "44.99 грн",
+    "measureUnit": "750г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/a4461697-cf27-4419-bfb0-22d40cd1c705.png",
+    "title": "Сирок Чудо Gelato Мангове збитий з наповнювачем фруктовим 5%",
+    "price": "16.99 грн",
+    "measureUnit": "100г"
+  },
+  {
+    "shop": "Сільпо",
+    "category": "молочні продукти та яйця",
+    "imageUrl": "https://images.silpo.ua/products/300x300/webp/ea13ecd8-e58f-4021-a425-7020998a39d7.png",
+    "title": "Маргарин Чумак Домашній столовий 72%",
+    "price": "27.99 грн",
+    "measureUnit": "250г"
+  }
+]
