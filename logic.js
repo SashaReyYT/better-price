@@ -1,6 +1,7 @@
 console.log('logic JS file is loaded');
 
-let wishList = [];
+let productList = []
+let wishList = []
 
 let activeFeedControlButton = 'wish-list';
 
@@ -19,7 +20,7 @@ document.querySelector('#product-list-button').addEventListener('click', () => {
 })
 
 const addToWishList = (id) => {
-  const product = data.find(product => product.id === id);
+  const product = productList.find(product => product.id === id);
   wishList.push(product.id);
   const button = document.querySelector(`.add-to-list-button[data-id="${id}"]`);
   button.textContent = 'Додано до списку';
@@ -42,6 +43,7 @@ const renderProducts = () => {
     fetch('./products.json')
         .then(response => response.json())
         .then(data => {
+            productList = data;
             console.log(data);
             //now I need to render the products in the product-feed div
             const productFeed = document.querySelector('.product-feed');
@@ -85,14 +87,14 @@ const renderWishList = () => {
     const wishListFeed = document.querySelector('.product-feed');
     wishListFeed.innerHTML = '';
     
-    wishList = wishList.filter(id => data.some(product => product.id === id));
+    wishList = wishList.filter(id => productList.some(product => product.id === id));
     
     if (wishList.length === 0) {
       const message = document.createElement('p');
       message.textContent = 'Ви поки не додали продукти до списку покупок';
       wishListFeed.appendChild(message);
     } else {
-      const wishListProducts = data.filter(product => wishList.includes(product.id));
+      const wishListProducts = productList.filter(product => wishList.includes(product.id));
       wishListProducts.forEach(product => {
         const productCard = document.createElement('div')
         productCard.className = 'product-card'
