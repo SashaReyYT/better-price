@@ -40,6 +40,8 @@ const urlList = [
 
 var products = []
 
+
+
 const addScrapedProducts = (shopURL, scrapedProducts) => {
   scrapedProducts.forEach(product => {
     products.push({
